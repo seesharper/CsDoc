@@ -8,6 +8,6 @@
         /// <summary>
         /// Gets or sets the default text to be used when no documentation is found.
         /// </summary>
-        public static string DefaultContent = "N/A";
+        public static string DefaultText = "N/A";
     }
 }

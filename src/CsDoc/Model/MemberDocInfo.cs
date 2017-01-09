@@ -15,12 +15,12 @@
         /// <summary>
         /// Gets the summary section of the documentation.
         /// </summary>
-        public string Summary { get; internal set; } = Options.DefaultContent;
+        public string Summary { get; internal set; } = Options.DefaultText;
 
         /// <summary>
         /// Get the remarks section of the documentation.
         /// </summary>
-        public string Remarks { get; internal set; } = Options.DefaultContent;
+        public string Remarks { get; internal set; } = Options.DefaultText;
 
         /// <summary>
         /// Gets a list of modifiers for this member.

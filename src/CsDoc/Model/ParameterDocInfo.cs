@@ -23,6 +23,6 @@
         /// <summary>
         /// Gets the description of the parameter.
         /// </summary>
-        public string Description { get; internal set; } = Options.DefaultContent;
+        public string Description { get; internal set; } = Options.DefaultText;
     }
 }
