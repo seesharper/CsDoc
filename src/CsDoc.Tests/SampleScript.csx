@@ -1,4 +1,6 @@
-﻿/// <summary>
+﻿#load "common.csx"
+
+/// <summary>
 /// This is the summary.
 /// </summary>
 public void SimpleMethod()
